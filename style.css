@@ -1,0 +1,41 @@
+body{
+    background-image:url("gj.jpg");
+background-size:cover;
+position:center;
+font-family: 'DotGothic16', sans-serif;
+}
+
+h1{
+    width: 100%;
+    background-color:rgba(198, 201, 16, 0.774);
+    margin:0;
+    padding: 20px;
+}
+
+.note{
+font-size: 20px;
+}
+
+#speeddiv{
+    float:left;
+    
+}
+.discimage{
+    width: 250px;
+    border-radius:50%;
+}
+
+#volumediv{
+    float:right;
+}
+
+#button,#button2{
+    font-size: 30px;
+margin-left:20px;
+}
+
+canvas{
+    border: 10px solid rgb(255, 255, 0) ;
+                         border-radius:20px;
+           margin-top:90px;
+}
